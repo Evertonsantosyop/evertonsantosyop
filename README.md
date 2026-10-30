@@ -1,9 +1,9 @@
-                                                                # 👨🏾‍💻​ Everton Santos
-                                                                
-                                                🎯​Estudante de analise e Desenvolvimento de Software
-                                           ____________________________________________________________________
-                                            SOBRE MIM
-                                          ​   Estudante de Tecnologia em transição de carreira, apaixonado por resolver problemas através da tecnologia.
+     # 👨🏾‍💻​ Everton Santos
+                                    
+🎯​Estudante de analise e Desenvolvimento de Software
+____________________________________________________________________
+  SOBRE MIM
+Estudante de Tecnologia em transição de carreira, apaixonado por resolver problemas através da tecnologia.
 
 Atualmente focado em desenvolver fundamentos sólidos em Lógica de Programação, Suporte Técnico e Git/GitHub, com aulas práticas que me mostram na prática a importância do versionamento e trabalho colaborativo.
 
