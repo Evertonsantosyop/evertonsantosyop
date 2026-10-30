@@ -21,7 +21,11 @@ ______________________________________________________________________
 
 -Praticas de Programação e Organização de projetos.
 _______________________________________________________________________
+✍🏾 PROJETOS:
 
+-Sistema de Gestão Empresarial-
+
+ Projeto acadêmico de modelagem de dados para um sistema de uma pequena empresa de temperos  
 
 
 
