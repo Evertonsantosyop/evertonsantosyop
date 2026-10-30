@@ -11,8 +11,13 @@ Sou curioso, proativo e aprendo rápido. Busco minha primeira oportunidade na á
 🚀 Objetivo: Entrar no mercado de TI e construir uma carreira sólida em desenvolvimento ou infraestrutura.
 ______________________________________________________________________
 
-📖 Estudando atualmente:
+📖 Estudando Atualmente:
 
+-Modelagem de Banco de dados 
+-GitHub 
+-Linkedin
+-Praticas de Programação e Organização de projetos.
+_______________________________________________________________________
 
 
 
