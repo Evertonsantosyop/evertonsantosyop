@@ -9,6 +9,24 @@ Atualmente focado em desenvolver fundamentos sólidos em Lógica de Programaçã
 Sou curioso, proativo e aprendo rápido. Busco minha primeira oportunidade na área de TI como Suporte, Help Desk ou Estágio em Desenvolvimento, onde eu possa contribuir enquanto continuo evoluindo.
 
 🚀 Objetivo: Entrar no mercado de TI e construir uma carreira sólida em desenvolvimento ou infraestrutura.
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://linkedin.com/EvertonSantoslima)
+______________________________________________________________________
+
+📖 Estudando atualmente:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
                                             
 
