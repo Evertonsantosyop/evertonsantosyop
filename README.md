@@ -14,8 +14,11 @@ ______________________________________________________________________
 📖 Estudando Atualmente:
 
 -Modelagem de Banco de dados 
+
 -GitHub 
+
 -Linkedin
+
 -Praticas de Programação e Organização de projetos.
 _______________________________________________________________________
 
