@@ -24,7 +24,7 @@ ______________________________________________________________________
 _______________________________________________________________________
 ✍🏾 PROJETOS:
 
--Sistema de Gestão Empresarial-
+-ERP-Rota-dos-Temperos
 
  Projeto acadêmico de modelagem de dados para um sistema de uma pequena empresa de temperos  
  -Modelagem de banco de dados 
