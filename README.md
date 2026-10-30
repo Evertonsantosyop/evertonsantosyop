@@ -1,4 +1,5 @@
 👨🏾‍💻​ Everton Santos
+
                
 🎯​Estudante de analise e Desenvolvimento de Software
 ____________________________________________________________________
@@ -26,19 +27,13 @@ _______________________________________________________________________
 -Sistema de Gestão Empresarial-
 
  Projeto acadêmico de modelagem de dados para um sistema de uma pequena empresa de temperos  
+ -Modelagem de banco de dados 
+ - Desenvolvimento de Diagrama Entidade Relacionamento(DER)
+ - Organização de entidades,atributos e relacionamntos
+________________________________________________________________________
 
 
-
-
-
-
-
-
-
-
-
-
-
+   🤝 VAMOS NOS CONECTAR?
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
                                             
 
