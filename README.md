@@ -1,6 +1,3 @@
-
-          <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Everton%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Software&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -33,19 +30,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
 </div>
 
 ## 📖 Estudando agora
 
-```python
-estudando = [
-    "Modelagem de Banco de Dados",
-    "Git e GitHub",
-    "LinkedIn e marca pessoal",
-    "Boas práticas de programação e organização de projetos",
-]
+```
+    python
+    Modelagem de Banco de Dados
+    Git e GitHub
+    LinkedIn e marca pessoal
+    Boas práticas de programação e organização de projetos
+
 ```
 
 ---
