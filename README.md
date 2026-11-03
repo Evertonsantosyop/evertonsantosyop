@@ -89,7 +89,7 @@ estudando = [
 
 ### 🐍 Snake comendo meus commits
 
-![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Código do Pac-Man - deixa muito gameficado -->
 <div align="center">
