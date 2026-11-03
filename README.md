@@ -87,5 +87,13 @@ estudando = [
 
 </div>
 
+### 🐍 Snake comendo meus commits
+
+![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Código do Pac-Man - deixa muito gameficado -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
                                   
 
