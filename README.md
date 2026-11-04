@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Everton%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Software&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Everton!+%F0%9F%91%8B%F0%9F%8F%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Python+%7C+SQL+%7C+Banco+de+Dados;Em+busca+da+primeira+oportunidade+em+TI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Everton!+%F0%9F%91%8B%F0%9F%8F%BE;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Python+%7C+SQL+%7C+Banco+de+Dados;+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Evertonsantosyop&color=36BCF7&style=flat-square&label=Visitas" alt="visitas"/>
